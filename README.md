@@ -1,6 +1,6 @@
 # PingPongWidget
-Simple widget to keep score for any ping pong game
-Created using HTML and JavaScript
+Simple widget to keep score for any ping pong game <br />
+Created using HTML and JavaScript <br />
 Used Bulma for simple styling
 
 ## Credit
